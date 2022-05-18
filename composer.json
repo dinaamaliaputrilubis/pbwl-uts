@@ -1,0 +1,19 @@
+{
+    "name": "dina/uts_pbwl",
+    "description": "UTS Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^8.0.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dina\\UtsPbwl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dina",
+            "email": "dinaamaliaputri.dz@gmail.com"
+        }
+    ]
+}
